@@ -1,13 +1,13 @@
 # simple-xfce4-panel-rice
-Heya, that's my first repo here on Github. Today, I made a little rice on my XFCE 4 Panel, and I thought I could share it to you guys, so enjoy!
+Heya, that's my first repo here on Github. Today, I made a little rice on my XFCE4 Panel, and I thought I could share it to you guys, so enjoy!
 
 
 # Requirements
-- XFCE panel and all it's dependencies needs to be installed and needs to be at it's latest update (for stability reasons).
+- XFCE4 panel and all it's dependencies needs to be installed and needs to be at it's latest update (for stability reasons).
 -  that's all!
   
 # Install
-As far as I know, just dragging and droping the '''xfce4-panel.xml''' in /home/username/.config/xfce4/xfconf should do the trick.
+As far as I know, just dragging and droping the ```xfce4-panel.xml``` in ```/home/username/.config/xfce4/xfconf``` should do the trick.
 
 
 # Gallery
