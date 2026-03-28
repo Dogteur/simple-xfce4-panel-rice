@@ -4,4 +4,6 @@ Heya, that's my first repo here on Github. Today, I made a little rice on my XFC
 ---
 
 # How does it look ?
-final_result.png
+## SCREENSHOTS
+<p align="center">
+<img height="192" width="341" src="https://github.com/Dogteur/simple-xfce4-panel-rice/blob/main/final_result.png" hspace="10"/>
