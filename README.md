@@ -20,4 +20,7 @@ The first screenshot is with the tray being closed, and the second has the tray 
 <p align="center">
 <img height="192" width="341" src="https://github.com/Dogteur/simple-xfce4-panel-rice/blob/main/Screenshots/full_screen.png" hspace="10"/>
 
-If you perhaps wanted to know how big it looked on screen, here it is.
+  If you perhaps wanted to know how big it looked on screen, here it is.
+
+# Infos
+Wallpaper: https://github.com/zhichaoh/catppuccin-wallpapers
